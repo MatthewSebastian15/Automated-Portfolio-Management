@@ -1,6 +1,6 @@
 # Automated Portfolio Management: Deep Learning vs. Traditional Strategies
 
-## Strategies
+# Strategies
 
 - **Equal Weight :** This strategy assigns exactly the same weight to each stock in the portfolio, for example, 10 stocks of 10 percent each, with a flat weighting of 1/N, regardless of volatility or historical performance. The approach is very simple and objective, and it effectively reduces risk when a single stock falls due to the evenly distributed diversification.
 
